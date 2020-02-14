@@ -1,0 +1,21 @@
+{
+  "name": "socketio-liveballs",
+  "description": "",
+  "main": "",
+  "authors": [
+    "irem simsar <iremsimsar46@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/iremsimsar/socketio-live-balls",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.7.9",
+    "semantic": "^2.4.1"
+  }
+}
